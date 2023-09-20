@@ -1,0 +1,3 @@
+[submodule "giouring"]
+	path = giouring
+	url = https://github.com/pawelgaczynski/giouring.git
